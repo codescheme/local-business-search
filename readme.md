@@ -6,7 +6,7 @@
 
 This WordPress plugin injects the data application/ld+json into the front page (only) of a WordPress site. No more itemscope itemtype= attributes dotted everywhere.
 
-This plugin is not (yet) internationalised.
+This plugin is not yet internationalised.
 
 
 ## Licence
