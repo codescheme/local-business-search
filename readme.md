@@ -1,10 +1,10 @@
-<p align="center"><img src="https://codescheme.github.io/img/google-search.jpg"></p>
+<p align="center"><img src="https://codescheme.github.io/img/google-search.jpg" width="350"></p>
 
 ## Google UK Local Business Search WordPress Plugin
 
 > "When users search for businesses on Google Search or Maps, search results may display a prominent Knowledge Graph card with details about a business that matched the query."
 
-This WordPress plugin injects the data application/ld+json into the front page (only) of a WordPress site. No more itemscope itemtype= code attributes dotted everywhere.
+This WordPress plugin injects the data application/ld+json into the front page (only) of a WordPress site. No more itemscope itemtype= attributes dotted everywhere.
 
 This plugin is not (yet) internationalised.
 
