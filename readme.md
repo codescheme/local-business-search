@@ -1,4 +1,4 @@
-<p align="center"><img src="https://codescheme.github.io/img/google-search.jpg" width="350"></p>
+<p align="center"><img src="https://codescheme.github.io/img/google-search.jpg" width="360"></p>
 
 ## Google UK Local Business Search WordPress Plugin
 
